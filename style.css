@@ -1,0 +1,17 @@
+.primer {
+	width: 300px;
+	margin: 50%;
+	border: 50%;
+}
+
+.bor {
+	padding: 20px 30px;
+	border: 50px
+}
+body {
+	background-color: #000;
+}
+
+p{
+	color: white;
+}
